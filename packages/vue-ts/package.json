@@ -1,5 +1,5 @@
 {
-  "name": "@wz-infinite/eslint-config-preset-vue-ts",
+  "name": "@wz-infinite/eslint-config-vue-ts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
